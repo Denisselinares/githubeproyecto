@@ -1,0 +1,50 @@
+body{text-align:center}
+h1{text-aling: center;}
+footer p {font-style: italic;}
+
+
+    body{
+      background:#D5F5E3 ;
+      font-family:Arial Black;
+      color:#641E16;
+      }
+
+      #capa{
+       background:#EBDEF0;
+       height:200px;
+      }
+
+      h1{
+      font-size:70px;
+      font-family:Arial Black;
+      color:#3C49E7;
+      text-shadow: 1px 1px 2px #000;
+      border-bottom: :3px dashed black;
+    }
+
+      h2{font-size:40px;
+      font-family:Arial Black;
+      color:#2E86C1;
+      text-shadow: 1px 1px 2px #000;
+    }
+
+  #datos {
+background-color: #E74C3C;
+text-align: center;
+border-radius: 50px;
+width: 600px;
+height:150px;
+margin-left: auto;
+margin-right: auto;
+  }
+
+  #resultado {
+background-color: #0000ff;
+ color: #ffffff;
+ text-align: center;
+  border-radius: 50px;
+  width: 500px;
+  height:100px;
+  margin-left: auto;
+  margin-right: auto;
+   }
